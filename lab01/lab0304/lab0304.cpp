@@ -6,7 +6,7 @@ using namespace std;
 int main() {
 int n;
 
-cout << "side";
+cout << "side" << endl;
 cin >> n;
 cout << endl;
 cout << "P = " << 3 * n << endl;
